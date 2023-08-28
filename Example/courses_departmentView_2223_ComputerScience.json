@@ -1,0 +1,1918 @@
+{
+    "CS-101 2223 2364": [
+        {
+            "ACT": {
+                "class_number": 2365, 
+                "component": "ACT", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Glenn", 
+                        "instructor_id": "000004745", 
+                        "instructor_lName": "Carter", 
+                        "wtu": 1.3
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "16:50:00", 
+                        "facility_cap": 24, 
+                        "facility_name": "DARW0024", 
+                        "meeting_pattern": "TH", 
+                        "start_time": "15:00:00"
+                    }
+                ], 
+                "section": "002"
+            }, 
+            "DIS": {
+                "class_number": 2364, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Glenn", 
+                        "instructor_id": "000004745", 
+                        "instructor_lName": "Carter", 
+                        "wtu": 2
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "11:50:00", 
+                        "facility_cap": 73, 
+                        "facility_name": "IH0104", 
+                        "meeting_pattern": "T", 
+                        "start_time": "10:00:00"
+                    }
+                ], 
+                "section": "001"
+            }, 
+            "available_seats": 11, 
+            "catalog": "101", 
+            "class_number": 2364, 
+            "combined_class_number": 2364, 
+            "components": [
+                "DIS", 
+                "ACT"
+            ], 
+            "course_title": "Computing Technology and You", 
+            "enrol_capacity": 24, 
+            "ftes": 2.6, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 13, 
+            "units": "3", 
+            "waitlist_size": 0
+        }, 
+        {
+            "ACT": {
+                "class_number": 2500, 
+                "component": "ACT", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Glenn", 
+                        "instructor_id": "000004745", 
+                        "instructor_lName": "Carter", 
+                        "wtu": 1.3
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "11:50:00", 
+                        "facility_cap": 24, 
+                        "facility_name": "DARW0024", 
+                        "meeting_pattern": "TH", 
+                        "start_time": "10:00:00"
+                    }
+                ], 
+                "section": "006"
+            }, 
+            "DIS": {
+                "class_number": 2368, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Glenn", 
+                        "instructor_id": "000004745", 
+                        "instructor_lName": "Carter", 
+                        "wtu": 0
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "11:50:00", 
+                        "facility_cap": 73, 
+                        "facility_name": "IH0104", 
+                        "meeting_pattern": "T", 
+                        "start_time": "10:00:00"
+                    }
+                ], 
+                "section": "005"
+            }, 
+            "available_seats": 0, 
+            "catalog": "101", 
+            "class_number": 2368, 
+            "combined_class_number": 2364, 
+            "components": [
+                "DIS", 
+                "ACT"
+            ], 
+            "course_title": "Computing Technology and You", 
+            "enrol_capacity": 24, 
+            "ftes": 4.8, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 24, 
+            "units": "3", 
+            "waitlist_size": 0
+        }
+    ], 
+    "CS-101 2223 2370": [
+        {
+            "ACT": {
+                "class_number": 2878, 
+                "component": "ACT", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Glenn", 
+                        "instructor_id": "000004745", 
+                        "instructor_lName": "Carter", 
+                        "wtu": 1.3
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "11:50:00", 
+                        "facility_cap": 24, 
+                        "facility_name": "DARW0024", 
+                        "meeting_pattern": "W", 
+                        "start_time": "10:00:00"
+                    }
+                ], 
+                "section": "008"
+            }, 
+            "DIS": {
+                "class_number": 2370, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Glenn", 
+                        "instructor_id": "000004745", 
+                        "instructor_lName": "Carter", 
+                        "wtu": 2
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "16:50:00", 
+                        "facility_cap": 125, 
+                        "facility_name": "DARW0103", 
+                        "meeting_pattern": "T", 
+                        "start_time": "15:00:00"
+                    }
+                ], 
+                "section": "007"
+            }, 
+            "available_seats": 2, 
+            "catalog": "101", 
+            "class_number": 2370, 
+            "combined_class_number": 2370, 
+            "components": [
+                "DIS", 
+                "ACT"
+            ], 
+            "course_title": "Computing Technology and You", 
+            "enrol_capacity": 24, 
+            "ftes": 4.4, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 22, 
+            "units": "3", 
+            "waitlist_size": 0
+        }, 
+        {
+            "ACT": {
+                "class_number": 2372, 
+                "component": "ACT", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Glenn", 
+                        "instructor_id": "000004745", 
+                        "instructor_lName": "Carter", 
+                        "wtu": 1.3
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "14:50:00", 
+                        "facility_cap": 24, 
+                        "facility_name": "DARW0024", 
+                        "meeting_pattern": "W", 
+                        "start_time": "13:00:00"
+                    }
+                ], 
+                "section": "010"
+            }, 
+            "DIS": {
+                "class_number": 2371, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Glenn", 
+                        "instructor_id": "000004745", 
+                        "instructor_lName": "Carter", 
+                        "wtu": 0
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "16:50:00", 
+                        "facility_cap": 125, 
+                        "facility_name": "DARW0103", 
+                        "meeting_pattern": "T", 
+                        "start_time": "15:00:00"
+                    }
+                ], 
+                "section": "009"
+            }, 
+            "available_seats": 0, 
+            "catalog": "101", 
+            "class_number": 2371, 
+            "combined_class_number": 2370, 
+            "components": [
+                "DIS", 
+                "ACT"
+            ], 
+            "course_title": "Computing Technology and You", 
+            "enrol_capacity": 24, 
+            "ftes": 4.8, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 24, 
+            "units": "3", 
+            "waitlist_size": 0
+        }, 
+        {
+            "ACT": {
+                "class_number": 2978, 
+                "component": "ACT", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Glenn", 
+                        "instructor_id": "000004745", 
+                        "instructor_lName": "Carter", 
+                        "wtu": 1.3
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "16:50:00", 
+                        "facility_cap": 24, 
+                        "facility_name": "DARW0024", 
+                        "meeting_pattern": "W", 
+                        "start_time": "15:00:00"
+                    }
+                ], 
+                "section": "014"
+            }, 
+            "DIS": {
+                "class_number": 2977, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Glenn", 
+                        "instructor_id": "000004745", 
+                        "instructor_lName": "Carter", 
+                        "wtu": 0
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "16:50:00", 
+                        "facility_cap": 125, 
+                        "facility_name": "DARW0103", 
+                        "meeting_pattern": "T", 
+                        "start_time": "15:00:00"
+                    }
+                ], 
+                "section": "013"
+            }, 
+            "available_seats": 1, 
+            "catalog": "101", 
+            "class_number": 2977, 
+            "combined_class_number": 2370, 
+            "components": [
+                "DIS", 
+                "ACT"
+            ], 
+            "course_title": "Computing Technology and You", 
+            "enrol_capacity": 24, 
+            "ftes": 4.6, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 23, 
+            "units": "3", 
+            "waitlist_size": 0
+        }
+    ], 
+    "CS-115 2223 2316": [
+        {
+            "DIS": {
+                "class_number": 2316, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Nina", 
+                        "instructor_id": "005826436", 
+                        "instructor_lName": "Marhamati", 
+                        "wtu": 3
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "10:45:00", 
+                        "facility_cap": 60, 
+                        "facility_name": "CHALK HILL", 
+                        "meeting_pattern": "MW", 
+                        "start_time": "09:30:00"
+                    }
+                ], 
+                "section": "001"
+            }, 
+            "LAB": {
+                "class_number": 2552, 
+                "component": "LAB", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Nina", 
+                        "instructor_id": "005826436", 
+                        "instructor_lName": "Marhamati", 
+                        "wtu": 2
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "15:50:00", 
+                        "facility_cap": 24, 
+                        "facility_name": "DARW0025", 
+                        "meeting_pattern": "M", 
+                        "start_time": "13:00:00"
+                    }
+                ], 
+                "section": "002"
+            }, 
+            "available_seats": 12, 
+            "catalog": "115", 
+            "class_number": 2316, 
+            "combined_class_number": 2316, 
+            "components": [
+                "DIS", 
+                "LAB"
+            ], 
+            "course_title": "Programming I", 
+            "enrol_capacity": 24, 
+            "ftes": 3.2, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 12, 
+            "units": "4", 
+            "waitlist_size": 0
+        }, 
+        {
+            "DIS": {
+                "class_number": 2508, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Nina", 
+                        "instructor_id": "005826436", 
+                        "instructor_lName": "Marhamati", 
+                        "wtu": 0
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "10:45:00", 
+                        "facility_cap": 60, 
+                        "facility_name": "CHALK HILL", 
+                        "meeting_pattern": "MW", 
+                        "start_time": "09:30:00"
+                    }
+                ], 
+                "section": "003"
+            }, 
+            "LAB": {
+                "class_number": 2553, 
+                "component": "LAB", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Ali", 
+                        "instructor_id": "001299888", 
+                        "instructor_lName": "Kooshesh", 
+                        "wtu": 2
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "18:50:00", 
+                        "facility_cap": 24, 
+                        "facility_name": "DARW0025", 
+                        "meeting_pattern": "M", 
+                        "start_time": "16:00:00"
+                    }
+                ], 
+                "section": "004"
+            }, 
+            "available_seats": 13, 
+            "catalog": "115", 
+            "class_number": 2508, 
+            "combined_class_number": 2316, 
+            "components": [
+                "DIS", 
+                "LAB"
+            ], 
+            "course_title": "Programming I", 
+            "enrol_capacity": 24, 
+            "ftes": 2.93, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 11, 
+            "units": "4", 
+            "waitlist_size": 0
+        }
+    ], 
+    "CS-115 2223 2856": [
+        {
+            "DIS": {
+                "class_number": 2856, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Henry", 
+                        "instructor_id": "005827736", 
+                        "instructor_lName": "Walker", 
+                        "wtu": 3
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "11:50:00", 
+                        "facility_cap": 24, 
+                        "facility_name": "DARW0025", 
+                        "meeting_pattern": "MW", 
+                        "start_time": "10:00:00"
+                    }
+                ], 
+                "section": "005"
+            }, 
+            "LAB": {
+                "class_number": 2857, 
+                "component": "LAB", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Henry", 
+                        "instructor_id": "005827736", 
+                        "instructor_lName": "Walker", 
+                        "wtu": 2
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "14:50:00", 
+                        "facility_cap": 24, 
+                        "facility_name": "DARW0025", 
+                        "meeting_pattern": "TH", 
+                        "start_time": "13:00:00"
+                    }
+                ], 
+                "section": "006"
+            }, 
+            "available_seats": 1, 
+            "catalog": "115", 
+            "class_number": 2856, 
+            "combined_class_number": 2856, 
+            "components": [
+                "DIS", 
+                "LAB"
+            ], 
+            "course_title": "Programming I", 
+            "enrol_capacity": 16, 
+            "ftes": 4, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 15, 
+            "units": "4", 
+            "waitlist_size": 0
+        }
+    ], 
+    "CS-115W 2223 2554": [
+        {
+            "SUP": {
+                "class_number": 2554, 
+                "component": "SUP", 
+                "instructors": [
+                    {
+                        "instructor_fName": null, 
+                        "instructor_id": null, 
+                        "instructor_lName": null, 
+                        "wtu": null
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "17:50:00", 
+                        "facility_cap": 22, 
+                        "facility_name": "SALZ1031", 
+                        "meeting_pattern": "F", 
+                        "start_time": "16:00:00"
+                    }
+                ], 
+                "section": "001"
+            }, 
+            "available_seats": 18, 
+            "catalog": "115W", 
+            "class_number": 2554, 
+            "combined_class_number": 2554, 
+            "components": [
+                "SUP"
+            ], 
+            "course_title": "Programming I Workshop", 
+            "enrol_capacity": 20, 
+            "ftes": 0.13, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 2, 
+            "units": "1", 
+            "waitlist_size": 0
+        }
+    ], 
+    "CS-210 2223 2290": [
+        {
+            "LAB": {
+                "class_number": 2290, 
+                "component": "LAB", 
+                "instructors": [
+                    {
+                        "instructor_fName": "KM Sabidur", 
+                        "instructor_id": "005826345", 
+                        "instructor_lName": "Rahman", 
+                        "wtu": 2
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "11:50:00", 
+                        "facility_cap": 25, 
+                        "facility_name": "DARW0028", 
+                        "meeting_pattern": "T", 
+                        "start_time": "09:00:00"
+                    }
+                ], 
+                "section": "001"
+            }, 
+            "available_seats": 0, 
+            "catalog": "210", 
+            "class_number": 2290, 
+            "combined_class_number": 2290, 
+            "components": [
+                "LAB"
+            ], 
+            "course_title": "Introduction to Unix", 
+            "enrol_capacity": 25, 
+            "ftes": 1.67, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 25, 
+            "units": "1", 
+            "waitlist_size": 4
+        }
+    ], 
+    "CS-215 2223 2291": [
+        {
+            "DIS": {
+                "class_number": 2291, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Gurman", 
+                        "instructor_id": "005060177", 
+                        "instructor_lName": "Gill", 
+                        "wtu": 3
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "14:15:00", 
+                        "facility_cap": 60, 
+                        "facility_name": "CHALK HILL", 
+                        "meeting_pattern": "MW", 
+                        "start_time": "13:00:00"
+                    }
+                ], 
+                "section": "001"
+            }, 
+            "LAB": {
+                "class_number": 2555, 
+                "component": "LAB", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Gurman", 
+                        "instructor_id": "005060177", 
+                        "instructor_lName": "Gill", 
+                        "wtu": 2
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "18:50:00", 
+                        "facility_cap": 25, 
+                        "facility_name": "DARW0028", 
+                        "meeting_pattern": "W", 
+                        "start_time": "16:00:00"
+                    }
+                ], 
+                "section": "002"
+            }, 
+            "available_seats": 3, 
+            "catalog": "215", 
+            "class_number": 2291, 
+            "combined_class_number": 2291, 
+            "components": [
+                "DIS", 
+                "LAB"
+            ], 
+            "course_title": "Programming II", 
+            "enrol_capacity": 24, 
+            "ftes": 5.6, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 21, 
+            "units": "4", 
+            "waitlist_size": 0
+        }, 
+        {
+            "DIS": {
+                "class_number": 2763, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Gurman", 
+                        "instructor_id": "005060177", 
+                        "instructor_lName": "Gill", 
+                        "wtu": 0
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "14:15:00", 
+                        "facility_cap": 60, 
+                        "facility_name": "CHALK HILL", 
+                        "meeting_pattern": "MW", 
+                        "start_time": "13:00:00"
+                    }
+                ], 
+                "section": "003"
+            }, 
+            "LAB": {
+                "class_number": 2764, 
+                "component": "LAB", 
+                "instructors": [
+                    {
+                        "instructor_fName": "KM Sabidur", 
+                        "instructor_id": "005826345", 
+                        "instructor_lName": "Rahman", 
+                        "wtu": 2
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "18:50:00", 
+                        "facility_cap": 24, 
+                        "facility_name": "DARW0025", 
+                        "meeting_pattern": "TH", 
+                        "start_time": "16:00:00"
+                    }
+                ], 
+                "section": "004"
+            }, 
+            "available_seats": 13, 
+            "catalog": "215", 
+            "class_number": 2763, 
+            "combined_class_number": 2291, 
+            "components": [
+                "DIS", 
+                "LAB"
+            ], 
+            "course_title": "Programming II", 
+            "enrol_capacity": 24, 
+            "ftes": 2.93, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 11, 
+            "units": "4", 
+            "waitlist_size": 0
+        }
+    ], 
+    "CS-242 2223 3055": [
+        {
+            "DIS": {
+                "class_number": 3055, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Gurman", 
+                        "instructor_id": "005060177", 
+                        "instructor_lName": "Gill", 
+                        "wtu": 4
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "14:50:00", 
+                        "facility_cap": 28, 
+                        "facility_name": "SALZ1035", 
+                        "meeting_pattern": "TTH", 
+                        "start_time": "13:00:00"
+                    }
+                ], 
+                "section": "002"
+            }, 
+            "available_seats": 0, 
+            "catalog": "242", 
+            "class_number": 3055, 
+            "combined_class_number": 3055, 
+            "components": [
+                "DIS"
+            ], 
+            "course_title": "Discrete Structures for CS", 
+            "enrol_capacity": 25, 
+            "ftes": 6.67, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 25, 
+            "units": "4", 
+            "waitlist_size": 4
+        }
+    ], 
+    "CS-252 2223 2557": [
+        {
+            "DIS": {
+                "class_number": 2557, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Mark", 
+                        "instructor_id": "005400270", 
+                        "instructor_lName": "Gondree", 
+                        "wtu": 3
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "10:45:00", 
+                        "facility_cap": 47, 
+                        "facility_name": "SALZ1029", 
+                        "meeting_pattern": "MW", 
+                        "start_time": "09:30:00"
+                    }
+                ], 
+                "section": "001"
+            }, 
+            "LAB": {
+                "class_number": 2558, 
+                "component": "LAB", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Mark", 
+                        "instructor_id": "005400270", 
+                        "instructor_lName": "Gondree", 
+                        "wtu": 2
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "10:50:00", 
+                        "facility_cap": 25, 
+                        "facility_name": "DARW0028", 
+                        "meeting_pattern": "F", 
+                        "start_time": "08:00:00"
+                    }
+                ], 
+                "section": "002"
+            }, 
+            "available_seats": 0, 
+            "catalog": "252", 
+            "class_number": 2557, 
+            "combined_class_number": 2557, 
+            "components": [
+                "DIS", 
+                "LAB"
+            ], 
+            "course_title": "Intro to Computer Organization", 
+            "enrol_capacity": 25, 
+            "ftes": 6.67, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 25, 
+            "units": "4", 
+            "waitlist_size": 2
+        }
+    ], 
+    "CS-285 2223 3706": [
+        {
+            "DIS": {
+                "class_number": 3706, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Wendy", 
+                        "instructor_id": "002992098", 
+                        "instructor_lName": "St John", 
+                        "wtu": 0.5
+                    }, 
+                    {
+                        "instructor_fName": "Mark", 
+                        "instructor_id": "005400270", 
+                        "instructor_lName": "Gondree", 
+                        "wtu": 0.5
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "15:50:00", 
+                        "facility_cap": 45, 
+                        "facility_name": "ARTS0102", 
+                        "meeting_pattern": "TH", 
+                        "start_time": "15:00:00"
+                    }
+                ], 
+                "section": "001"
+            }, 
+            "available_seats": 7, 
+            "catalog": "285", 
+            "class_number": 3706, 
+            "combined_class_number": 3706, 
+            "components": [
+                "DIS", 
+                "DIS"
+            ], 
+            "course_title": "Selected Topics in Comp Sci", 
+            "enrol_capacity": 15, 
+            "ftes": 0.53, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 8, 
+            "units": "1", 
+            "waitlist_size": 0
+        }
+    ], 
+    "CS-315 2223 2431": [
+        {
+            "DIS": {
+                "class_number": 2431, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Ali", 
+                        "instructor_id": "001299888", 
+                        "instructor_lName": "Kooshesh", 
+                        "wtu": 3
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "10:45:00", 
+                        "facility_cap": 62, 
+                        "facility_name": "SALZ2016", 
+                        "meeting_pattern": "TTH", 
+                        "start_time": "09:30:00"
+                    }
+                ], 
+                "section": "001"
+            }, 
+            "LAB": {
+                "class_number": 2559, 
+                "component": "LAB", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Ali", 
+                        "instructor_id": "001299888", 
+                        "instructor_lName": "Kooshesh", 
+                        "wtu": 2
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "15:50:00", 
+                        "facility_cap": 24, 
+                        "facility_name": "DARW0025", 
+                        "meeting_pattern": "T", 
+                        "start_time": "13:00:00"
+                    }
+                ], 
+                "section": "002"
+            }, 
+            "available_seats": 0, 
+            "catalog": "315", 
+            "class_number": 2431, 
+            "combined_class_number": 2431, 
+            "components": [
+                "DIS", 
+                "LAB"
+            ], 
+            "course_title": "Data Structures", 
+            "enrol_capacity": 24, 
+            "ftes": 6.4, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 24, 
+            "units": "4", 
+            "waitlist_size": 3
+        }, 
+        {
+            "DIS": {
+                "class_number": 2913, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Ali", 
+                        "instructor_id": "001299888", 
+                        "instructor_lName": "Kooshesh", 
+                        "wtu": 0
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "10:45:00", 
+                        "facility_cap": 62, 
+                        "facility_name": "SALZ2016", 
+                        "meeting_pattern": "TTH", 
+                        "start_time": "09:30:00"
+                    }
+                ], 
+                "section": "003"
+            }, 
+            "LAB": {
+                "class_number": 2914, 
+                "component": "LAB", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Ali", 
+                        "instructor_id": "001299888", 
+                        "instructor_lName": "Kooshesh", 
+                        "wtu": 2
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "15:50:00", 
+                        "facility_cap": 25, 
+                        "facility_name": "DARW0028", 
+                        "meeting_pattern": "W", 
+                        "start_time": "13:00:00"
+                    }
+                ], 
+                "section": "004"
+            }, 
+            "available_seats": 6, 
+            "catalog": "315", 
+            "class_number": 2913, 
+            "combined_class_number": 2431, 
+            "components": [
+                "DIS", 
+                "LAB"
+            ], 
+            "course_title": "Data Structures", 
+            "enrol_capacity": 25, 
+            "ftes": 5.07, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 19, 
+            "units": "4", 
+            "waitlist_size": 0
+        }
+    ], 
+    "CS-340 2223 2432": [
+        {
+            "DIS": {
+                "class_number": 2432, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Mark", 
+                        "instructor_id": "005400270", 
+                        "instructor_lName": "Gondree", 
+                        "wtu": 2
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "16:50:00", 
+                        "facility_cap": 41, 
+                        "facility_name": "DARW0035", 
+                        "meeting_pattern": "M", 
+                        "start_time": "15:00:00"
+                    }
+                ], 
+                "section": "001"
+            }, 
+            "LAB": {
+                "class_number": 2603, 
+                "component": "LAB", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Mark", 
+                        "instructor_id": "005400270", 
+                        "instructor_lName": "Gondree", 
+                        "wtu": 1.3
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "18:50:00", 
+                        "facility_cap": 24, 
+                        "facility_name": "DARW0025", 
+                        "meeting_pattern": "W", 
+                        "start_time": "16:00:00"
+                    }
+                ], 
+                "section": "002"
+            }, 
+            "available_seats": 0, 
+            "catalog": "340", 
+            "class_number": 2432, 
+            "combined_class_number": 2432, 
+            "components": [
+                "DIS", 
+                "LAB"
+            ], 
+            "course_title": "Computer Security and Malware", 
+            "enrol_capacity": 24, 
+            "ftes": 4.8, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 24, 
+            "units": "3", 
+            "waitlist_size": 12
+        }
+    ], 
+    "CS-349 2223 3230": [
+        {
+            "ACT": {
+                "class_number": 3230, 
+                "component": "ACT", 
+                "instructors": [
+                    {
+                        "instructor_fName": "KM Sabidur", 
+                        "instructor_id": "005826345", 
+                        "instructor_lName": "Rahman", 
+                        "wtu": 1.3
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "20:40:00", 
+                        "facility_cap": 24, 
+                        "facility_name": "DARW0025", 
+                        "meeting_pattern": "T", 
+                        "start_time": "18:00:00"
+                    }
+                ], 
+                "section": "001"
+            }, 
+            "available_seats": 17, 
+            "catalog": "349", 
+            "class_number": 3230, 
+            "combined_class_number": 3230, 
+            "components": [
+                "ACT"
+            ], 
+            "course_title": "Problem Solving in a Team Envn", 
+            "enrol_capacity": 24, 
+            "ftes": 0.47, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 7, 
+            "units": "1", 
+            "waitlist_size": 0
+        }
+    ], 
+    "CS-351 2223 2917": [
+        {
+            "DIS": {
+                "class_number": 2917, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Suzanne", 
+                        "instructor_id": "003004643", 
+                        "instructor_lName": "Rivoire", 
+                        "wtu": 4
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "14:50:00", 
+                        "facility_cap": 36, 
+                        "facility_name": "DARW0031", 
+                        "meeting_pattern": "MW", 
+                        "start_time": "13:00:00"
+                    }
+                ], 
+                "section": "001"
+            }, 
+            "available_seats": 5, 
+            "catalog": "351", 
+            "class_number": 2917, 
+            "combined_class_number": 2917, 
+            "components": [
+                "DIS"
+            ], 
+            "course_title": "Computer Architecture", 
+            "enrol_capacity": 25, 
+            "ftes": 5.33, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 20, 
+            "units": "4", 
+            "waitlist_size": 0
+        }
+    ], 
+    "CS-355 2223 2433": [
+        {
+            "DIS": {
+                "class_number": 2433, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Suzanne", 
+                        "instructor_id": "003004643", 
+                        "instructor_lName": "Rivoire", 
+                        "wtu": 4
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "18:50:00", 
+                        "facility_cap": 0, 
+                        "facility_name": "SYNC", 
+                        "meeting_pattern": "TTH", 
+                        "start_time": "17:00:00"
+                    }
+                ], 
+                "section": "001"
+            }, 
+            "available_seats": 0, 
+            "catalog": "355", 
+            "class_number": 2433, 
+            "combined_class_number": 2433, 
+            "components": [
+                "DIS"
+            ], 
+            "course_title": "Database Mgt System Design", 
+            "enrol_capacity": 25, 
+            "ftes": 6.67, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 25, 
+            "units": "4", 
+            "waitlist_size": 8
+        }
+    ], 
+    "CS-370 2223 2452": [
+        {
+            "DIS": {
+                "class_number": 2452, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Jeffrey", 
+                        "instructor_id": "002193846", 
+                        "instructor_lName": "Neong", 
+                        "wtu": 4
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "18:50:00", 
+                        "facility_cap": 0, 
+                        "facility_name": "SYNC", 
+                        "meeting_pattern": "MW", 
+                        "start_time": "17:00:00"
+                    }
+                ], 
+                "section": "001"
+            }, 
+            "available_seats": 0, 
+            "catalog": "370", 
+            "class_number": 2452, 
+            "combined_class_number": 2452, 
+            "components": [
+                "DIS"
+            ], 
+            "course_title": "Software Design & Development", 
+            "enrol_capacity": 25, 
+            "ftes": 6.67, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 25, 
+            "units": "4", 
+            "waitlist_size": 6
+        }
+    ], 
+    "CS-385 2223 3092": [
+        {
+            "DIS": {
+                "class_number": 3092, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Nina", 
+                        "instructor_id": "005826436", 
+                        "instructor_lName": "Marhamati", 
+                        "wtu": 3
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "17:15:00", 
+                        "facility_cap": 30, 
+                        "facility_name": "SALZ1051", 
+                        "meeting_pattern": "MW", 
+                        "start_time": "16:00:00"
+                    }
+                ], 
+                "section": "001"
+            }, 
+            "available_seats": 6, 
+            "catalog": "385", 
+            "class_number": 3092, 
+            "combined_class_number": 3092, 
+            "components": [
+                "DIS"
+            ], 
+            "course_title": "Selected Topics Computer Sci", 
+            "enrol_capacity": 25, 
+            "ftes": 3.8, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 19, 
+            "units": "3", 
+            "waitlist_size": 0
+        }
+    ], 
+    "CS-385 2223 3093": [
+        {
+            "DIS": {
+                "class_number": 3093, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "David", 
+                        "instructor_id": "005829023", 
+                        "instructor_lName": "Shreiner", 
+                        "wtu": 3
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "18:45:00", 
+                        "facility_cap": 30, 
+                        "facility_name": "IH0201A", 
+                        "meeting_pattern": "TTH", 
+                        "start_time": "17:30:00"
+                    }
+                ], 
+                "section": "002"
+            }, 
+            "available_seats": 7, 
+            "catalog": "385", 
+            "class_number": 3093, 
+            "combined_class_number": 3093, 
+            "components": [
+                "DIS"
+            ], 
+            "course_title": "Selected Topics Computer Sci", 
+            "enrol_capacity": 25, 
+            "ftes": 3.6, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 18, 
+            "units": "3", 
+            "waitlist_size": 0
+        }
+    ], 
+    "CS-390 2223 2336": [
+        {
+            "LEC": {
+                "class_number": 2336, 
+                "component": "LEC", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Balasubramanian", 
+                        "instructor_id": "000028054", 
+                        "instructor_lName": "Ravikumar", 
+                        "wtu": 1
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "12:50:00", 
+                        "facility_cap": 0, 
+                        "facility_name": "SYNC", 
+                        "meeting_pattern": "W", 
+                        "start_time": "12:00:00"
+                    }
+                ], 
+                "section": "001"
+            }, 
+            "available_seats": 18, 
+            "catalog": "390", 
+            "class_number": 2336, 
+            "combined_class_number": 2336, 
+            "components": [
+                "LEC"
+            ], 
+            "course_title": "Computer Science Colloquium", 
+            "enrol_capacity": 80, 
+            "ftes": 4.13, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 62, 
+            "units": "1", 
+            "waitlist_size": 0
+        }
+    ], 
+    "CS-415 2223 2453": [
+        {
+            "DIS": {
+                "class_number": 2453, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Gurman", 
+                        "instructor_id": "005060177", 
+                        "instructor_lName": "Gill", 
+                        "wtu": 4
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "16:50:00", 
+                        "facility_cap": 28, 
+                        "facility_name": "SALZ1035", 
+                        "meeting_pattern": "TTH", 
+                        "start_time": "15:00:00"
+                    }
+                ], 
+                "section": "001"
+            }, 
+            "available_seats": 0, 
+            "catalog": "415", 
+            "class_number": 2453, 
+            "combined_class_number": 2453, 
+            "components": [
+                "DIS"
+            ], 
+            "course_title": "Algorithm Analysis", 
+            "enrol_capacity": 25, 
+            "ftes": 6.67, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 25, 
+            "units": "4", 
+            "waitlist_size": 6
+        }
+    ], 
+    "CS-415 2223 3317": [
+        {
+            "DIS": {
+                "class_number": 3317, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Henry", 
+                        "instructor_id": "005827736", 
+                        "instructor_lName": "Walker", 
+                        "wtu": 4
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "14:50:00", 
+                        "facility_cap": 39, 
+                        "facility_name": "IVES0079", 
+                        "meeting_pattern": "MW", 
+                        "start_time": "13:00:00"
+                    }
+                ], 
+                "section": "002"
+            }, 
+            "available_seats": 0, 
+            "catalog": "415", 
+            "class_number": 3317, 
+            "combined_class_number": 3317, 
+            "components": [
+                "DIS"
+            ], 
+            "course_title": "Algorithm Analysis", 
+            "enrol_capacity": 10, 
+            "ftes": 2.67, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 10, 
+            "units": "4", 
+            "waitlist_size": 1
+        }
+    ], 
+    "CS-450 2223 3094": [
+        {
+            "DIS": {
+                "class_number": 3094, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Mark", 
+                        "instructor_id": "005400270", 
+                        "instructor_lName": "Gondree", 
+                        "wtu": 4
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "18:50:00", 
+                        "facility_cap": 28, 
+                        "facility_name": "SALZ1035", 
+                        "meeting_pattern": "TTH", 
+                        "start_time": "17:00:00"
+                    }
+                ], 
+                "section": "001"
+            }, 
+            "available_seats": 0, 
+            "catalog": "450", 
+            "class_number": 3094, 
+            "combined_class_number": 3094, 
+            "components": [
+                "DIS"
+            ], 
+            "course_title": "Operating Systems", 
+            "enrol_capacity": 25, 
+            "ftes": 6.67, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 25, 
+            "units": "4", 
+            "waitlist_size": 2
+        }
+    ], 
+    "CS-454 2223 3095": [
+        {
+            "DIS": {
+                "class_number": 3095, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Balasubramanian", 
+                        "instructor_id": "000028054", 
+                        "instructor_lName": "Ravikumar", 
+                        "wtu": 4
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "11:50:00", 
+                        "facility_cap": 35, 
+                        "facility_name": "IVES0045", 
+                        "meeting_pattern": "MW", 
+                        "start_time": "10:00:00"
+                    }
+                ], 
+                "section": "001"
+            }, 
+            "available_seats": 0, 
+            "catalog": "454", 
+            "class_number": 3095, 
+            "combined_class_number": 3095, 
+            "components": [
+                "DIS"
+            ], 
+            "course_title": "Theory of Computation", 
+            "enrol_capacity": 25, 
+            "ftes": 6.67, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 25, 
+            "units": "4", 
+            "waitlist_size": 7
+        }
+    ], 
+    "CS-460 2223 3096": [
+        {
+            "DIS": {
+                "class_number": 3096, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "KM Sabidur", 
+                        "instructor_id": "005826345", 
+                        "instructor_lName": "Rahman", 
+                        "wtu": 4
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "14:50:00", 
+                        "facility_cap": 35, 
+                        "facility_name": "SALZ1052", 
+                        "meeting_pattern": "TTH", 
+                        "start_time": "13:00:00"
+                    }
+                ], 
+                "section": "001"
+            }, 
+            "available_seats": 0, 
+            "catalog": "460", 
+            "class_number": 3096, 
+            "combined_class_number": 3096, 
+            "components": [
+                "DIS"
+            ], 
+            "course_title": "Programming Languages", 
+            "enrol_capacity": 25, 
+            "ftes": 6.67, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 25, 
+            "units": "4", 
+            "waitlist_size": 8
+        }
+    ], 
+    "CS-470 2223 2604": [
+        {
+            "DIS": {
+                "class_number": 2604, 
+                "component": "DIS", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Ali", 
+                        "instructor_id": "001299888", 
+                        "instructor_lName": "Kooshesh", 
+                        "wtu": 3
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": "12:15:00", 
+                        "facility_cap": 39, 
+                        "facility_name": "IVES0034", 
+                        "meeting_pattern": "TTH", 
+                        "start_time": "11:00:00"
+                    }
+                ], 
+                "section": "001"
+            }, 
+            "available_seats": 2, 
+            "catalog": "470", 
+            "class_number": 2604, 
+            "combined_class_number": 2604, 
+            "components": [
+                "DIS"
+            ], 
+            "course_title": "Advanced Software Design Proj", 
+            "enrol_capacity": 25, 
+            "ftes": 4.6, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 23, 
+            "units": "3", 
+            "waitlist_size": 0
+        }
+    ], 
+    "CS-495 2223 3895": [
+        {
+            "SUP": {
+                "class_number": 3895, 
+                "component": "SUP", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Suzanne", 
+                        "instructor_id": "003004643", 
+                        "instructor_lName": "Rivoire", 
+                        "wtu": 0.33
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": null, 
+                        "facility_cap": null, 
+                        "facility_name": null, 
+                        "meeting_pattern": "ARR", 
+                        "start_time": null
+                    }
+                ], 
+                "section": "001"
+            }, 
+            "available_seats": 0, 
+            "catalog": "495", 
+            "class_number": 3895, 
+            "combined_class_number": 3895, 
+            "components": [
+                "SUP"
+            ], 
+            "course_title": "Special Studies", 
+            "enrol_capacity": 1, 
+            "ftes": 0.2, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 1, 
+            "units": "3", 
+            "waitlist_size": 0
+        }
+    ], 
+    "CS-496 2223 2832": [
+        {
+            "SEM": {
+                "class_number": 2832, 
+                "component": "SEM", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Gurman", 
+                        "instructor_id": "005060177", 
+                        "instructor_lName": "Gill", 
+                        "wtu": 0
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": null, 
+                        "facility_cap": 0, 
+                        "facility_name": "BISYNC", 
+                        "meeting_pattern": "ARR", 
+                        "start_time": null
+                    }
+                ], 
+                "section": "001"
+            }, 
+            "available_seats": 5, 
+            "catalog": "496", 
+            "class_number": 2832, 
+            "combined_class_number": 2832, 
+            "components": [
+                "SEM"
+            ], 
+            "course_title": "Senior Research Project", 
+            "enrol_capacity": 5, 
+            "ftes": 0, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 0, 
+            "units": "3", 
+            "waitlist_size": 0
+        }
+    ], 
+    "CS-496 2223 2859": [
+        {
+            "SEM": {
+                "class_number": 2859, 
+                "component": "SEM", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Mark", 
+                        "instructor_id": "005400270", 
+                        "instructor_lName": "Gondree", 
+                        "wtu": 0.67
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": null, 
+                        "facility_cap": 0, 
+                        "facility_name": "BISYNC", 
+                        "meeting_pattern": "ARR", 
+                        "start_time": null
+                    }
+                ], 
+                "section": "002"
+            }, 
+            "available_seats": 2, 
+            "catalog": "496", 
+            "class_number": 2859, 
+            "combined_class_number": 2859, 
+            "components": [
+                "SEM"
+            ], 
+            "course_title": "Senior Research Project", 
+            "enrol_capacity": 5, 
+            "ftes": 0.6, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 3, 
+            "units": "3", 
+            "waitlist_size": 0
+        }
+    ], 
+    "CS-496 2223 2860": [
+        {
+            "SEM": {
+                "class_number": 2860, 
+                "component": "SEM", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Ali", 
+                        "instructor_id": "001299888", 
+                        "instructor_lName": "Kooshesh", 
+                        "wtu": 0.67
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": null, 
+                        "facility_cap": 0, 
+                        "facility_name": "BISYNC", 
+                        "meeting_pattern": "ARR", 
+                        "start_time": null
+                    }
+                ], 
+                "section": "003"
+            }, 
+            "available_seats": 3, 
+            "catalog": "496", 
+            "class_number": 2860, 
+            "combined_class_number": 2860, 
+            "components": [
+                "SEM"
+            ], 
+            "course_title": "Senior Research Project", 
+            "enrol_capacity": 5, 
+            "ftes": 0.4, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 2, 
+            "units": "3", 
+            "waitlist_size": 0
+        }
+    ], 
+    "CS-496 2223 2861": [
+        {
+            "SEM": {
+                "class_number": 2861, 
+                "component": "SEM", 
+                "instructors": [
+                    {
+                        "instructor_fName": "KM Sabidur", 
+                        "instructor_id": "005826345", 
+                        "instructor_lName": "Rahman", 
+                        "wtu": 0
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": null, 
+                        "facility_cap": 0, 
+                        "facility_name": "BISYNC", 
+                        "meeting_pattern": "ARR", 
+                        "start_time": null
+                    }
+                ], 
+                "section": "004"
+            }, 
+            "available_seats": 5, 
+            "catalog": "496", 
+            "class_number": 2861, 
+            "combined_class_number": 2861, 
+            "components": [
+                "SEM"
+            ], 
+            "course_title": "Senior Research Project", 
+            "enrol_capacity": 5, 
+            "ftes": 0, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 0, 
+            "units": "3", 
+            "waitlist_size": 0
+        }
+    ], 
+    "CS-496 2223 2862": [
+        {
+            "SEM": {
+                "class_number": 2862, 
+                "component": "SEM", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Nina", 
+                        "instructor_id": "005826436", 
+                        "instructor_lName": "Marhamati", 
+                        "wtu": 0
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": null, 
+                        "facility_cap": 0, 
+                        "facility_name": "BISYNC", 
+                        "meeting_pattern": "ARR", 
+                        "start_time": null
+                    }
+                ], 
+                "section": "005"
+            }, 
+            "available_seats": 5, 
+            "catalog": "496", 
+            "class_number": 2862, 
+            "combined_class_number": 2862, 
+            "components": [
+                "SEM"
+            ], 
+            "course_title": "Senior Research Project", 
+            "enrol_capacity": 5, 
+            "ftes": 0, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 0, 
+            "units": "3", 
+            "waitlist_size": 0
+        }
+    ], 
+    "CS-496 2223 3176": [
+        {
+            "SEM": {
+                "class_number": 3176, 
+                "component": "SEM", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Balasubramanian", 
+                        "instructor_id": "000028054", 
+                        "instructor_lName": "Ravikumar", 
+                        "wtu": 0.33
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": null, 
+                        "facility_cap": 0, 
+                        "facility_name": "BISYNC", 
+                        "meeting_pattern": "ARR", 
+                        "start_time": null
+                    }
+                ], 
+                "section": "006"
+            }, 
+            "available_seats": 4, 
+            "catalog": "496", 
+            "class_number": 3176, 
+            "combined_class_number": 3176, 
+            "components": [
+                "SEM"
+            ], 
+            "course_title": "Senior Research Project", 
+            "enrol_capacity": 5, 
+            "ftes": 0.2, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 1, 
+            "units": "3", 
+            "waitlist_size": 0
+        }
+    ], 
+    "CS-496 2223 3206": [
+        {
+            "SEM": {
+                "class_number": 3206, 
+                "component": "SEM", 
+                "instructors": [
+                    {
+                        "instructor_fName": "Suzanne", 
+                        "instructor_id": "003004643", 
+                        "instructor_lName": "Rivoire", 
+                        "wtu": 1.67
+                    }
+                ], 
+                "meeting_pattern": [
+                    {
+                        "end_time": null, 
+                        "facility_cap": 0, 
+                        "facility_name": "BISYNC", 
+                        "meeting_pattern": "ARR", 
+                        "start_time": null
+                    }
+                ], 
+                "section": "007"
+            }, 
+            "available_seats": 1, 
+            "catalog": "496", 
+            "class_number": 3206, 
+            "combined_class_number": 3206, 
+            "components": [
+                "SEM"
+            ], 
+            "course_title": "Senior Research Project", 
+            "enrol_capacity": 5, 
+            "ftes": 0.8, 
+            "subject": "CS", 
+            "term": "2223", 
+            "total_enrolled": 4, 
+            "units": "3", 
+            "waitlist_size": 0
+        }
+    ]
+}

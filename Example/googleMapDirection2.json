@@ -1,0 +1,144 @@
+[
+   {
+      "start_location" : {
+         "lng" : -116.214292,
+         "lat" : 43.5962982
+      },
+      "polyline" : {
+         "points" : "{{aiGhbidU?g@"
+      },
+      "travel_mode" : "DRIVING",
+      "html_instructions" : "Head <b>east</b> toward <b>S Vista Ave</b>",
+      "duration" : {
+         "value" : 5,
+         "text" : "1 min"
+      },
+      "distance" : {
+         "value" : 16,
+         "text" : "52 ft"
+      },
+      "end_location" : {
+         "lat" : 43.5963003,
+         "lng" : -116.2140892
+      }
+   },
+   {
+      "distance" : {
+         "value" : 57,
+         "text" : "187 ft"
+      },
+      "end_location" : {
+         "lng" : -116.2136563,
+         "lat" : 43.5964972
+      },
+      "maneuver" : "turn-left",
+      "html_instructions" : "Turn <b>left</b> toward <b>S Vista Ave</b>",
+      "polyline" : {
+         "points" : "{{aiG`aidUg@??uA"
+      },
+      "travel_mode" : "DRIVING",
+      "start_location" : {
+         "lng" : -116.2140892,
+         "lat" : 43.5963003
+      },
+      "duration" : {
+         "value" : 17,
+         "text" : "1 min"
+      }
+   },
+   {
+      "travel_mode" : "DRIVING",
+      "polyline" : {
+         "points" : "c}aiGj~hdUk@?gA?C?w@?U?o@?Y?Q?s@AY?U?k@?S?W?c@?q@?OAi@AU?eACcAEUA]M"
+      },
+      "html_instructions" : "Turn <b>left</b> at the 1st cross street onto <b>S Vista Ave</b><div style=\"font-size:0.9em\">Pass by Starbucks (on the right)</div>",
+      "maneuver" : "turn-left",
+      "end_location" : {
+         "lat" : 43.600673,
+         "lng" : -116.2135048
+      },
+      "distance" : {
+         "text" : "0.3 mi",
+         "value" : 465
+      },
+      "duration" : {
+         "text" : "1 min",
+         "value" : 83
+      },
+      "start_location" : {
+         "lng" : -116.2136563,
+         "lat" : 43.5964972
+      }
+   },
+   {
+      "distance" : {
+         "text" : "1.1 mi",
+         "value" : 1791
+      },
+      "end_location" : {
+         "lng" : -116.235106,
+         "lat" : 43.6017797
+      },
+      "maneuver" : "turn-left",
+      "html_instructions" : "Turn <b>left</b> onto <b>Rose Hill St</b>",
+      "polyline" : {
+         "points" : "ewbiGj}hdU?fA?h@?`@?T?\\AnE?dF?XAtBANAPAPEf@Gj@CT?BC\\?TAV@X@`@Dh@Dv@Dh@Bb@@P?N@H?J?x@?`@?jFCxBBjC?nB@nAAhA@l@?X?\\?r@?`@@fE?fB?dA?xB?dAC|A@vA?|GAvB@dD?hA?rA@N?L@F?FAD?J?HAH?HAJCTCNEXCVCLAJCHKZCJCFEHGNKPY`@KNYXUVy@`A"
+      },
+      "travel_mode" : "DRIVING",
+      "start_location" : {
+         "lat" : 43.600673,
+         "lng" : -116.2135048
+      },
+      "duration" : {
+         "value" : 165,
+         "text" : "3 mins"
+      }
+   },
+   {
+      "duration" : {
+         "value" : 302,
+         "text" : "5 mins"
+      },
+      "html_instructions" : "Continue onto <b>W. Franklin St.</b><div style=\"font-size:0.9em\">Pass by Dairy Queen Grill &amp; Chill (on the left in 0.9&nbsp;mi)</div>",
+      "travel_mode" : "DRIVING",
+      "polyline" : {
+         "points" : "c~biGldmdUGHKRKPGNEJELGVEPCVCRCTA\\AXGvCQxGAR]vMClAErAGzAA~@AJ?NCn@EjBGnCEdAE|@Q`FAl@Cl@Ab@Af@AX?p@MhEAj@ErAInCI~CEnBEjACt@Ah@ErAG`BAV?`@GvBGtBAd@AVA\\Ax@A\\M`EAb@E`BGvBCpAEz@GjCQ`G?LGlAEdACjAYhJEfBOzGE|BG~BE~BEfAGt@ErAGbBCfAGbCC~@M`FAt@OfFAf@EzACz@Ah@CrACp@"
+      },
+      "start_location" : {
+         "lat" : 43.6017797,
+         "lng" : -116.235106
+      },
+      "end_location" : {
+         "lat" : 43.6046474,
+         "lng" : -116.2742087
+      },
+      "distance" : {
+         "text" : "2.0 mi",
+         "value" : 3174
+      }
+   },
+   {
+      "duration" : {
+         "text" : "1 min",
+         "value" : 87
+      },
+      "start_location" : {
+         "lat" : 43.6046474,
+         "lng" : -116.2742087
+      },
+      "html_instructions" : "Turn <b>right</b> onto <b>N Cole Rd</b>",
+      "polyline" : {
+         "points" : "apciGxxtdU_@A_@?]?o@?e@Am@?k@AG?{AAe@Ay@EqAME?SAQCK?AAG?QAw@EO?QAq@A]?eA?gA@c@@[@W?E?S@M?U@]BQBUDm@J_@HQ@I@G?W@_@@Q?[?mA?"
+      },
+      "travel_mode" : "DRIVING",
+      "maneuver" : "turn-right",
+      "end_location" : {
+         "lat" : 43.6119385,
+         "lng" : -116.2742277
+      },
+      "distance" : {
+         "value" : 813,
+         "text" : "0.5 mi"
+      }
+   }
+]
