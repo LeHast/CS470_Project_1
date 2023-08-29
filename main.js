@@ -24,29 +24,23 @@ if (cs_schedule.courses[secondClass] === undefined){
 const firstPreReq = cs_schedule.courses[firstClass].course_pre_reqs;
 const SecondPreReq = cs_schedule.courses[secondClass].course_pre_reqs;
 
-// Check for first class
-for (let index = 0; index < firstPreReq.length; index++) {
-    const element = firstPreReq[index];
+const CheckForRequirements = (preReq, toCompareClass) => {
+    // Check for first class
+    for (let index = 0; index < firstPpreReqreReq.length; index++) {
+        const element = preReq[index];
 
-    for (let secIndex = 0; secIndex < element.courses.length; secIndex++) {
-        if (element.courses[secIndex][secondClass] !== undefined){
-            btakeConsecutive = false;
-            break;
+        for (let secIndex = 0; secIndex < element.courses.length; secIndex++) {
+            if (element.courses[secIndex][toCompareClass] !== undefined){
+                return false;
+            }
         }
     }
+    return true;
 }
 
-// Check for second class
-for (let index = 0; index < SecondPreReq.length; index++) {
-    const element = SecondPreReq[index];
-
-    for (let secIndex = 0; secIndex < element.courses.length; secIndex++) {
-        if (element.courses[secIndex][firstClass] !== undefined){
-            btakeConsecutive = false;
-            break;
-        }
-    }
-}
+btakeConsecutive = CheckForRequirements(firstPreReq, secondClass);
+if (btakeConsecutive)
+    btakeConsecutive = CheckForRequirements(SecondPreReq, firstClass);
 
 
 const output = btakeConsecutive ? (firstArg + ' and ' + secondArg + ' can be taken concurrently.') :
