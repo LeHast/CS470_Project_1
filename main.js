@@ -16,13 +16,13 @@ const cs_schedule = require("./cs_prerequisites.json");
 //   num_required: 1,
 // }
 
-// toCompareClass is a string, for the key. If the string is the preReq returns false 
-// toCompareClass = "CS 315" 
+// toCompareClass is a string, for the key. If the string is the preReq returns false.
+// toCompareClass = "CS 315".
 
 const CheckForRequirements = (preReq, toCompareClass) => {
-    // Goes for every course in the array
+    // Goes for every course in the array.
     for (let index = 0; index < preReq.length; index++) {
-        if (!btakeConsecutive) // Base case
+        if (!btakeConsecutive) // Base case.
             return;
         
         const element = preReq[index];
@@ -37,8 +37,8 @@ const CheckForRequirements = (preReq, toCompareClass) => {
             CheckForRequirements(deepPreReq, toCompareClass);
         });
 
-        // Checks if toCompareClass is the preReq course from the element/
-        // If there is a course in the list with the string toCompareClass returns false
+        // Checks if toCompareClass is the preReq course from the element.
+        // If there is a course in the list with the string toCompareClass returns false.
         for (let secIndex = 0; secIndex < element.courses.length; secIndex++) {
             if (element.courses[secIndex][toCompareClass] !== undefined){
                 btakeConsecutive = false;
@@ -52,18 +52,21 @@ const CheckForRequirements = (preReq, toCompareClass) => {
 
 
 
-// App starts here
+// App starts here.
 let btakeConsecutive = true;
 
-// Gets only the arguments from the user, ex: 351 450
-if (process.argv.length < 4)
+// Gets only the arguments from the user, ex: 351 450.
+if (process.argv.length < 4){
+    console.log ("2 arguments need it");
     return;
+}
+
 
 const firstArg = process.argv[2]; 
 const secondArg = process.argv[3]; 
 
 
-// Adds 'CS ' to the numbers to complete the course name, ex: CS 315
+// Adds 'CS ' to the numbers to complete the course name, ex: CS 315.
 const section = 'CS '
 const firstClass = section + firstArg;
 const secondClass = section + secondArg;
